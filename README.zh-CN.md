@@ -67,5 +67,3 @@ PR 示例：https://github.com/consenlabs/token-profile/pull/1636
 ## Copyright
 
 2018&copy;imToken PTE. LTD.
-
-ok,let's go
